@@ -28,10 +28,16 @@
 ## Usage: 
     - Initial Start Video - It's on your terminal!
 ![Initial Start Video](./assets/initial_start_video.gif)
+    
+    
     - Checking product routes.
 ![Insomia Product Video](./assets/insomia_product_video.gif)
+    
+    
     - Checking category routes.
 ![Insomia Category Video](./assets/insomia_category_video.gif)
+    
+    
     - Checking tag routes.
 ![Insomia Tag Video](./assets/insomia_tag_video.gif)
 
