@@ -35,7 +35,7 @@
     
     
     - Checking category routes.
-![Insomia Category Video](./assets/insomnia_category_video)
+![Insomia Category Video](./assets/insomnia_category_video.gif)
     
     
     - Checking tag routes.
