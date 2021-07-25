@@ -31,15 +31,15 @@
     
     
     - Checking product routes.
-![Insomia Product Video](./assets/insomia_product_video.gif)
+![Insomia Product Video](./assets/insomnia_product_video.gif)
     
     
     - Checking category routes.
-![Insomia Category Video](./assets/insomia_category_video.gif)
+![Insomia Category Video](./assets/insomnia_category_video)
     
     
     - Checking tag routes.
-![Insomia Tag Video](./assets/insomia_tag_video.gif)
+![Insomia Tag Video](./assets/insomnia_tag_video.gif)
 
 ## Contributor:  
 - Daeyoung Bae 
